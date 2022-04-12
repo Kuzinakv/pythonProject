@@ -9,6 +9,8 @@ def print_hi(name, a, b):
     #print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     a = b * 3
     b = 3 * 45
+    b = 3 + 56721 / 2
+    b = 3 * 45
     a = a + b
     #print(a + b / 42)
     return 0
